@@ -69,6 +69,61 @@ a caption to an image.
 them on the web page and in the appropriate format*
 *imgs. are best saved as JPEGs*
 
+## Color:
+If you want to maake your page full of life .. you have to use colors .
+Foreground Color : we use `color`
+Background Color : we use `Backgroung-color` 
+** You can specify any
+color in CSS in one of three ways:**
+1. rgb values LIKE rgb(102,205,170)
+2. hex codes LIKE #66cdaa
+3. color names LIKE MediumAquaMarine
+
+**Every color on a computer screen is created by mixing amounts of red,
+green, and blue. To find the color you want, you can use a color picker.**
+
+When picking foreground and background
+colors, it is important to ensure that there is
+enough contrast for the text to be legible.
+### Opacity : 
+`opacity, rgba`
+allows you to
+specify the opacity of an element
+and any of its child elements.
+The value is a number between
+0.0 and 1.0 (so a value of 0.5
+is 50% opacity and 0.15 is 15%
+opacity).
+
+CSS3 introduces an entirely new and intuitive
+way to specify colors using
+* hue .(In HSL colors, hue is often
+represented as a color circle
+where the angle represents the
+color)
+* saturation .(Saturation is the amount of
+gray in a color)
+* lightness values .(Lightness is the amount of
+white (lightness) or black
+(darkness) in a color)
+
+## Text :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
