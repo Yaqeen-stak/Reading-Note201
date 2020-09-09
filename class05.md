@@ -108,6 +108,55 @@ white (lightness) or black
 (darkness) in a color)
 
 ## Text :
+### Typeface Terminology:
+* Serif: fonts have extra details on
+the ends of the main strokes of
+the letters.
+* Sans-serif: fonts have straight
+ends to letters, and therefore
+have a much cleaner design.
+* Monospace :Every letter in a monospace (or
+fixed-width) font is the same
+width. (Non-monospace fonts
+have different widths.)
+**Also** we have other typeface like :Monospace,Cursive and Fantasy.
+
+**NOTE** 
+When choosing
+a typeface, it
+is important to
+understand that a
+browser will usually
+only display it if it's
+installed on that
+user's computer
+
+##### Techniques That Offer a Wider Choice of Typefaces:
+(font-family, font-face and Service-based font-face...etc)
+
+##### Specifying Typefaces:
+`font-family`
+The `font-family` property
+allows you to specify the
+typeface that should be used for
+any text inside the element(s) to
+which a CSS rule applies.
+
+The value of this property is the
+name of the typeface you want
+to use. 
+
+##### Size of Type 
+`font-size`
+
+ There are several ways to
+specify the size of a font
+* pixels
+* percentages
+* ems
+##### Attribute Selectors:
+ allow you to create rules that apply to
+elements that have an attribute with a specific value.
 
 
 
