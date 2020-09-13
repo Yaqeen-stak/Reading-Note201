@@ -8,4 +8,5 @@ Topic |
 [Class03](https://yaqeen-stak.github.io/Reading-Note201/class-03) |
 [Class04](https://yaqeen-stak.github.io/Reading-Note201/class-04) |
 [Class05](https://yaqeen-stak.github.io/Reading-Note201/class05) |
-[Cladd06](https://yaqeen-stak.github.io/Reading-Note201/Class06)|
+[Class06](https://yaqeen-stak.github.io/Reading-Note201/Class06)|
+[Class07](https://yaqeen-stak.github.io/Reading-Note201/Class07) |
