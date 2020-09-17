@@ -10,3 +10,7 @@ Topic |
 [Class05](https://yaqeen-stak.github.io/Reading-Note201/class05) |
 [Class06](https://yaqeen-stak.github.io/Reading-Note201/Class06)|
 [Class07](https://yaqeen-stak.github.io/Reading-Note201/Class07) |
+[Class08](https://yaqeen-stak.github.io/Reading-Note201/class08) |
+[Class09](https://yaqeen-stak.github.io/Reading-Note201/Class09) |
+[Class10](https://yaqeen-stak.github.io/Reading-Note201/Class10) |
+[Class11](https://yaqeen-stak.github.io/Reading-Note201/Class11) |
