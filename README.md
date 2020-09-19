@@ -1,4 +1,6 @@
 # Reading-Note201
+In this page you will find the basics to be perfet with JavaScript,HTMl and CSS .
+
 This page contains all topics in 201 course :
 
 Topic | 
