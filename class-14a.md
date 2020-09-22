@@ -79,7 +79,7 @@ The transition-property property determines exactly what properties will be alte
 
 **not all properties may be transitioned**
 
-*On top of declaring the transition property, duration, and timing function, you can also set a delay with the transition-delay property
+* On top of declaring the transition property, duration, and timing function, you can also set a delay with the transition-delay property
 
 
 ## Animations
@@ -90,16 +90,25 @@ Once you have declared the animation-name property on an element, animations beh
 
 # simple effects that will add life to your UI
 
-*Fade in
+* Fade in
+
 Fade in effects are coded in two steps: first, you set the initial state; next, you set the change
-*Change color
-*Grow & Shrink
+
+* Change color
+
+* Grow & Shrink
 To grow an element, you used to have to use its width and height, or its padding. But now we can use CSS3’s transform to enlarge.
-*Rotate elements
-*Square to circle
-*3D shadow
-*Swing
-*Inset border
+
+* Rotate elements
+
+* Square to circle
+
+* 3D shadow
+ 
+* Swing
+
+* Inset border
+
  Inset border
 One of the hottest button styles right now is the ghost button; a button with no background and a heavy border. We can of course add a border to an element simply, but that will change the element’s position. We could fix that problem using box sizing, but a far simpler solution is the transition in a border using an inset box shadow.
 
